@@ -286,12 +286,12 @@ Inside that folder, create a folder called “ClientSettings”
 ## Step 4 :
 Inside the ClientSettings folder, paste in this JSON file  
 
-![](/src/Step4.png ""Step 4")
-![](/src/Step5.png ""Step 4")
+![](/src/Step4.png "Step 4")
+![](/src/Step5.png "Step 4")
 
 
 ## Step 5 :
 You're done! Join any game you want and it should work perfectly !
 Enjoy!
 
-![](/src/Bonus.png ""Step 5")
+![](/src/Bonus.png "Step 5")
