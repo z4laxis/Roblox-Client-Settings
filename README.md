@@ -1,4 +1,4 @@
-# How to unlock your FPS on Roblox without using "rbxfpsunlocker.exe" :
+# How to unlock your FPS on Roblox :
 
 ## Step 0 :
 ### You will need a JSON file named "ClientsSettings.json", it is available to download or simply to copy.
