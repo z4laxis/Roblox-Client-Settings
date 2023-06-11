@@ -5,8 +5,7 @@
 
 **ClientSettings.json :**  
 
-	{
-"FIntFlagUpdateVersion": 94,
+	{"FIntFlagUpdateVersion": 94,
 	"FStringNewInGameMenuForcedUserIds": "2323539704;3822626535;4126963942;2627408279;4329723352",
 	"DFIntSecondsBetweenDynamicVariableReloading": 31557600,
 	"FIntRolloutEnrollmentExpirationMinutes": 31557600,
