@@ -1,4 +1,10 @@
 # How to unlock your FPS on Roblox :
+=====
+## Here is a list of what does this method do :
+- Modifies the client settings,
+- Less frequent frame drops
+- Overrides default frame rate restrictions,
+- Synchronizes with the server's tick rate
 
 ## Step 0 :
 ### You will need a JSON file named "ClientsSettings.json", it is available to download or simply to copy.
