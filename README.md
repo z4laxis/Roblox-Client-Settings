@@ -1,5 +1,5 @@
 # How to unlock your FPS on Roblox :
-=====
+
 ## Here is a list of what does this method do :
 - Modifies the client settings,
 - Less frequent frame drops
